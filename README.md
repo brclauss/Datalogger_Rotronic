@@ -1,2 +1,2 @@
 # Datalogger_Rotronic
-Distrms dstslogger utilizando sensores Rotronic HC2-S
+Dispositivo datalogger utilizando sensores Rotronic HC2-S
